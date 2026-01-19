@@ -1,0 +1,5 @@
+{
+  "name": "Excel to Custom JSON Converter",
+  "description": "A tool to extract specific columns from Excel/CSV, merge with custom metadata, and export as structured JSON.",
+  "requestFramePermissions": []
+}
